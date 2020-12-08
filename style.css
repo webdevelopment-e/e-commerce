@@ -1,0 +1,124 @@
+body{
+    margin: 30px 0;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+.bg-color{
+    background-color: hsl(167, 73%, 75%);
+}
+
+#text-highlight{
+    color: rgba(255, 140, 0, 0.952);
+
+}
+.sign-button{
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    background-color: darkgreen;
+}
+h1{
+    font-weight: 700;
+}
+#single-word{
+    color: green;
+}
+.col-md-7{
+    padding: 10px 30px;
+}
+.col-md-5{
+    padding: 10px 20px;
+}
+.col-md-5 img{
+     width: 100%;
+}
+.icon-1, .icon-2, .icon-3, .icon-4{
+    height: 300px;
+    padding: 30px 40px;
+    text-align: center;
+    background-color: rgba(255, 248, 220, 0.932);
+    
+}
+.icon-2{
+    box-shadow: 3px 3px 20px gray;
+}
+
+.icon-1 img{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.icon-2 img{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.icon-3 img{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.icon-4 img{
+    width: 100px;
+    margin-bottom: 20px;
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+}
+.bg-color{
+    background-color: rgb(245, 245, 245);
+}
+.course-1 img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.course-1{
+    width: 350px;
+}
+.item-1 img{
+    width: 30px;
+
+}
+.item-2 img{
+    width: 30px;
+}
+.item-2{
+    margin-left: 50px;
+}
+.part-1 img{
+    width: 150px;
+}
+.part-1{
+    padding-left: 200px;
+}
+.part-2 p{
+    padding-right: 100px;
+}
+.ending-part{
+    height: 400px;
+    background-color: black;
+}
+.list-box{
+    display: flex;
+}
+.item1{
+    width: 450px;
+    
+}
+.list-item{
+    color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    padding: 40px 40px;
+}
+footer{
+    color: whitesmoke;
+    text-align: center;
+}
+
